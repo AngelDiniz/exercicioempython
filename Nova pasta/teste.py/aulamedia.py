@@ -5,4 +5,5 @@ print(f'A sua media foi {media}')
 if media <= 5:
     print('A sua nota ta ruim')
 else:
+    print('A sua nota foi otima!')
     
