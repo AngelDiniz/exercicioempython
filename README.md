@@ -9,7 +9,7 @@ Esse projeto resume-se em alguns algoritmos do Curso em Video, que foram feitos 
 3. Abra o terminal na pasta do projeto.
 
 ```bash
-python seu_programa.py
+python pythonprograms.py
 
 Contribuição
 Contribuições são bem-vindas! Siga estes passos:
