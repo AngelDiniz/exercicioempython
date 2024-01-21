@@ -1,6 +1,6 @@
 # Projetos em Python
 
-Esse projeto resume-se em alguns algoritmos do Curso em Video, que foram feitos pro mim durante ao decorrer do curso, são eles programas simples para funçoes basicas. 
+Esse projeto resume-se em algoritmos criados pelo professor Guanabara do Curso em Video, que foram feitos pro mim durante o decorrer do curso, são eles, programas simples para funçoes basicas. 
 
 ## Como Usar
 
